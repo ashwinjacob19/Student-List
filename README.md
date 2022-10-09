@@ -1,6 +1,6 @@
-# flutter_application_2
+# Student List
 
-A new Flutter project.
+A new Flutter project. 
 
 ## Getting Started
 
